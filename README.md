@@ -8,7 +8,7 @@ Responsive Design: Built to be responsive and adaptable across various devices a
 CSS Styling: Utilizes CSS for styling elements, encompassing layout, fonts, colors, and more.
 Components: Includes components such as the header, navigation, product sections, etc., akin to those present on the Amazon platform.
 Installation:
-Clone the repository: git clone https://github.com/your-username/amazon-homepage-clone.git
+Clone the repository: git clone https://github.com/NaveenKari/AmazonHomePageClone.git
 Open index.html in a web browser.
 Usage:
 Feel free to explore the codebase, analyze the structure, or utilize it for learning purposes. This project is a valuable resource for understanding HTML and CSS practices in building complex web layouts.
